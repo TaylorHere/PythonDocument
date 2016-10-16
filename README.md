@@ -1,8 +1,7 @@
 # python 学习资料
 ## python语言基础
-https://learnpythonthehardway.org/
-
-https://zhuanlan.zhihu.com/p/22909144（出自知乎用户xianhu）
+[Learn Python The Hard Way](https://learnpythonthehardway.org/)  
+[一千行代码s学习python](https://zhuanlan.zhihu.com/p/22909144（出自知乎用户xianhu)  
 
 ## python web 框架
 ###Flask
