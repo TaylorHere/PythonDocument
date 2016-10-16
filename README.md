@@ -11,18 +11,18 @@ https://zhuanlan.zhihu.com/p/22909144（出自知乎用户xianhu）
 
 ## python 数据库
 ### SQL
-[SQLalchemy SQL 的python ORM实现](http://docs.sqlalchemy.org/en/rel_1_1/)
+[SQL 的python ORM实现 SQLalchemy ](http://docs.sqlalchemy.org/en/rel_1_1/)  
 ### NoSQL 
-[Python MongoDB 驱动实现 PyMongo](http://api.mongodb.com/python/current/)
-[Python MongoDB ORM MongoKit](https://github.com/TaylorHere/mongokit)
+[Python MongoDB 驱动实现 PyMongo](http://api.mongodb.com/python/current/)    
+[Python MongoDB ORM实现 MongoKit](https://github.com/TaylorHere/mongokit)  
 
 ## python 深度学习框架
 [Google TensorFlow](http://www.tensorfly.cn/tfdoc/get_started/introduction.html)
 
 ## IDE 或 编辑器
-[Pychram](https://www.jetbrains.com/pycharm/)
-[Atom](https://atom.io/)
-[Sublime Text](http://www.sublimetext.com)
+[Pychram](https://www.jetbrains.com/pycharm/)  
+[Atom](https://atom.io/)  
+[Sublime Text](http://www.sublimetext.com)  
 
 
 # 题外话
