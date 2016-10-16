@@ -38,4 +38,5 @@ Q: 某些 Python2 的库 Python3 没有，怎么办，比如 [mysqldb(MySQL-pyth
 
 A: 这类库一般已经早就停止更新~~(年久失修)~~，并且都有同类替代产品，比如 py3 连接MySQL可以使用 [pymysql](https://pypi.python.org/pypi/PyMySQL)。同时在[mysqldb(MySQL-python)](https://pypi.python.org/pypi/MySQL-python/1.2.5)的页面你会发现，这个库最后的更新日期是2014-01-02……
 
+另：学习不是一朝一夕的事情，需要一点一滴积累，切勿急于求成。再此放上一张漫画，与诸位共勉
 ![](learning_c_in_21_days.jpg)
