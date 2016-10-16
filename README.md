@@ -10,7 +10,7 @@ https://zhuanlan.zhihu.com/p/22909144（出自知乎用户xianhu）
 [类似于django后台的flask实现 flask-admin](http://flask-admin.readthedocs.org)   
 [flask RESTful](http://www.pythondoc.com/Flask-RESTful/quickstart.html)  
 [微信开发库](http://wechatpy.readthedocs.io/zh_CN/master/install.html)
-[HTTPAuth库](https://flask-httpauth.readthedocs.io/en/latest/)
+[HTTPAuth库](https://flask-httpauth.readthedocs.io/en/latest/)  
 [Flask缓存](http://www.pythondoc.com/flask-cache/#id4)
 ###Django
 [Django](https://www.djangoproject.com/)  
