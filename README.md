@@ -30,6 +30,10 @@
 [Sublime Text](http://www.sublimetext.com)  
 
 
+## pip
+[get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+
+
 # 题外话
 
 建议初学者直接学习Python 3，为了Python的未来
